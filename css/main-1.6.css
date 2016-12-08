@@ -452,23 +452,23 @@ section h2 {
     }
 }
 
-@media only screen and (min-width: 768px) {
+/*@media only screen and (min-width: 768px) {*/
 
 /* ====================
     WIDE: CSS3 Effects
    ==================== */
 
-    section h1 {
+    /*section h1 {
         font-size: 4.9em;
     }
     section h2 {
         font-size: 2.0em;
-    }
+    }*/
 
 /* ============
     WIDE: Menu
    ============ */
-
+/*
     #introtext .head-sarah {
         font-size: 9em;
    }
@@ -483,13 +483,13 @@ section h2 {
         font-size: 2em;
         margin-top: 15px;
         margin-bottom: 20px;
-    }
+    }*/
 
 /* ============
     WIDE: Main
    ============ */
 
-    .main header {
+    /*.main header {
         padding-top: 175px;
         margin-top: 40%;
         margin-bottom: 10%;
@@ -500,8 +500,8 @@ section h2 {
     nav a {
         padding: 15px 2%;
         font-size: 90%;
-    }
-}
+    }*/
+/*}
 @media only screen and (min-width: 900px) {
 
     section h1,
@@ -531,13 +531,13 @@ section h2 {
 
 
 @media only screen and (min-width: 1140px)
- {
+ {*/
 
 /* ===============
     Maximal Width
    =============== */
 
-    nav a {
+    /*nav a {
         padding: 15px 3%;
         font-size: 120%;
     }
@@ -545,9 +545,9 @@ section h2 {
     .wrapper {
         width: 1026px; /* 1140px - 10% for margins */
         margin: 0 auto;
-    }
+    }*/
 
-    #introtext .head-sarah {
+    /*#introtext .head-sarah {
         font-size: 11em;
     }
     #introtext .amp {
@@ -569,10 +569,10 @@ section h2 {
         margin-bottom: 30%;
         float: left;
         width: 100%;
-    }
+    }*/
 
 
-}
+/*}*/
 
 /* ==========================================================================
    Helper classes
