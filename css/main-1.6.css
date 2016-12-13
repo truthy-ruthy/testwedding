@@ -515,12 +515,12 @@ section h2 {
 
     .column.full {
         clear: both;
-        float: center;
+        float: left;
         width: 100%;
         margin: 5px;
     }
     .column {
-        float: center;
+        float: left;
         width: 45%;
     }
     .column p {
