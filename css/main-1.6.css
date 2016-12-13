@@ -414,7 +414,7 @@ section h2 {
 
     .main header {
         margin-top: 20%;
-        float: left;
+        float: center;
         width: 40%;
         min-width: 320px;
     }
@@ -515,12 +515,12 @@ section h2 {
 
     .column.full {
         clear: both;
-        float: left;
+        float: center;
         width: 100%;
         margin: 5px;
     }
     .column {
-        float: left;
+        float: center;
         width: 45%;
     }
     .column p {
