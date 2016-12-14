@@ -235,11 +235,11 @@ nav ul li a::-moz-focus-inner {border:0;}
 
 }
 .main header {
-    float: right;
+    float: center;
     width: 80%;
 }
 
-.main bg-pic {
+.main bg-image {
     size: 50%;
 }
 
