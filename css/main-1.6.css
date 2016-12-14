@@ -232,7 +232,7 @@ nav ul li a::-moz-focus-inner {border:0;}
 .main {
     padding: 2%;
     align-content: space-around;
-    font-size: 75%;
+    font-size: 1em;
 }
 .main header {
     float: center;
