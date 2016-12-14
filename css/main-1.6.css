@@ -239,7 +239,7 @@ nav ul li a::-moz-focus-inner {border:0;}
     width: 80%;
 }
 
-.main bg-image {
+.main #bg-image {
   height: 90vh;
 }
 
