@@ -240,7 +240,7 @@ nav ul li a::-moz-focus-inner {border:0;}
 }
 
 .main bg-image {
-      background-size: 100%;
+      background-size: contain;
 }
 
 /* ==========================================================================
