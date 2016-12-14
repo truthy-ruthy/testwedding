@@ -340,7 +340,7 @@ section h2 {
     /** get the transparent bar on the bottom **/
     .header-container {
         position:fixed;
-        float: center;
+        float: left;
         bottom:40px;
         width:100%;
         line-height:12px;
@@ -366,7 +366,7 @@ section h2 {
         position: relative;
         top: 29px;
         font-size: 0.9em;
-        /*margin-left: -20px;*/
+        margin-left: -20px;
     }
     #introtext .head-brad {
         font-size: 3em;
@@ -507,7 +507,7 @@ section h2 {
 
     section h1,
     section h2 {
-        padding: 20px;
+        padding: 0 20px;
     }
     section h1 {
         font-size: 5.9em;
