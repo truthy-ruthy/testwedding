@@ -232,7 +232,7 @@ nav ul li a::-moz-focus-inner {border:0;}
 .main {
     padding: 2%;
     align-content: space-around;
-
+    background-size: cover;
 }
 .main header {
     float: center;
@@ -240,8 +240,8 @@ nav ul li a::-moz-focus-inner {border:0;}
 }
 
 .main bg-image img{
-    width: 200px;
-    height: 400px;
+    /*width: 200px;
+    height: 400px;*/
 }
 
 /* ==========================================================================
