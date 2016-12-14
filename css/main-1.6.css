@@ -232,10 +232,15 @@ nav ul li a::-moz-focus-inner {border:0;}
 .main {
     padding: 2%;
     align-content: space-around;
+
 }
 .main header {
-    float: center;
+    float: right;
     width: 80%;
+}
+
+.main bg-pic {
+    size: 50%;
 }
 
 /* ==========================================================================
