@@ -236,8 +236,11 @@ nav ul li a::-moz-focus-inner {border:0;}
 }
 .main header {
     float: center;
-    margin-left: 10px;
+    margin-left: 20px;
     width: 80%;
+}
+.main .clearfix {
+  align-content: center;
 }
 
 
