@@ -239,22 +239,8 @@ nav ul li a::-moz-focus-inner {border:0;}
     width: 80%;
 }
 
-.main .bg-image {
-  position: fixed;
-  top: -50%;
-  left: -50%;
-  width: 50%;
-  height: 50%;
-}
-.main .bg-image img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  margin: auto;
-  min-width: 10%;
-  min-height: 10%;
+.main bg-image {
+  height: 90vh;
 }
 
 /* ==========================================================================
