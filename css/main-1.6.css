@@ -233,7 +233,7 @@ nav ul li a::-moz-focus-inner {border:0;}
     padding: 5% 0;
 }
 .main header {
-    float: center;
+    float: left;
     width: 80%;
 }
 
@@ -414,7 +414,7 @@ section h2 {
 
     .main header {
         margin-top: 20%;
-        float: center;
+        float: left;
         width: 40%;
         min-width: 320px;
     }
@@ -515,7 +515,7 @@ section h2 {
 
     .column.full {
         clear: both;
-        float: left;
+        float: center;
         width: 100%;
         margin: 5px;
     }
@@ -568,7 +568,7 @@ section h2 {
     .main header {
         margin-top: 4%;
         margin-bottom: 30%;
-        float: center;
+        float: left;
         width: 100%;
     }
 
