@@ -240,8 +240,8 @@ nav ul li a::-moz-focus-inner {border:0;}
 }
 
 .main bg-image {
-    width: 50%;
-    height: 50;
+    width: 200px;
+    height: 400px;
 }
 
 /* ==========================================================================
