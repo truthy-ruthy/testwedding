@@ -239,7 +239,10 @@ nav ul li a::-moz-focus-inner {border:0;}
 }
 
 .main bg-image img{
-    size: contain;
+  -webkit-background-size: contain;
+      -moz-background-size: contain;
+      -o-background-size: contain;
+      background-size: contain;
 }
 
 /* ==========================================================================
