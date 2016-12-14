@@ -238,11 +238,8 @@ nav ul li a::-moz-focus-inner {border:0;}
     width: 80%;
 }
 
-.main bg-image img{
-  -webkit-background-size: contain;
-      -moz-background-size: contain;
-      -o-background-size: contain;
-      background-size: contain;
+.main bg-image {
+      size: contain;
 }
 
 /* ==========================================================================
