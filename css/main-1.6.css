@@ -243,8 +243,8 @@ nav ul li a::-moz-focus-inner {border:0;}
   position: fixed;
   top: -50%;
   left: -50%;
-  width: 200%;
-  height: 200%;
+  width: 50%;
+  height: 50%;
 }
 .main bg-image img {
   position: absolute;
@@ -253,8 +253,8 @@ nav ul li a::-moz-focus-inner {border:0;}
   right: 0;
   bottom: 0;
   margin: auto;
-  min-width: 50%;
-  min-height: 50%;
+  min-width: 10%;
+  min-height: 10%;
 }
 
 /* ==========================================================================
