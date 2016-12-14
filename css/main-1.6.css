@@ -236,14 +236,10 @@ nav ul li a::-moz-focus-inner {border:0;}
 }
 .main header {
     float: center;
+    margin-left: 10px;
     width: 80%;
 }
-.main .mobile1 {
-  float: center;
-}
-/*.main #mobile1 {
-  float:
-}*/
+
 
 /* ==========================================================================
    Brad's custom styles
