@@ -233,7 +233,7 @@ nav ul li a::-moz-focus-inner {border:0;}
     padding: 5% 0;
 }
 .main header {
-    float: left;
+    float: center;
     width: 80%;
 }
 
@@ -340,7 +340,7 @@ section h2 {
     /** get the transparent bar on the bottom **/
     .header-container {
         position:fixed;
-        float: left;
+        float: center;
         bottom:40px;
         width:100%;
         line-height:12px;
