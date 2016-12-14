@@ -238,9 +238,8 @@ nav ul li a::-moz-focus-inner {border:0;}
     float: center;
     width: 80%;
 }
-
-.main #bg-image {
-  height: 90vh;
+.main .column.full {
+  align-content: space-around;
 }
 
 /* ==========================================================================
