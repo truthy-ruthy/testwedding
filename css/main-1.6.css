@@ -351,8 +351,8 @@ section h2 {
    ==================== */
 
     body {
-        /*background-position: 50% 20%;*/
-        background-position: center;
+        background-position: 50% 50%;
+        /*background-position: center;*/
     }
 
     /** get the transparent bar on the bottom **/
