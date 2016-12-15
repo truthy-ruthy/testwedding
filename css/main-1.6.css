@@ -430,7 +430,7 @@ section h2 {
     .main header {
         margin-top: 20%;
         float: left;
-        width: 40%;
+        width: 100%;
         min-width: 320px;
     }
 
