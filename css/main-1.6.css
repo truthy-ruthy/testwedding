@@ -230,7 +230,7 @@ nav ul li a::-moz-focus-inner {border:0;}
    ============== */
 
 .main {
-    padding: 2% 0% 0% 5%;
+    padding: 2%;
     align-content: space-around;
 }
 .main header {
@@ -880,7 +880,7 @@ a.email {
     height: 200px;
     width: 300px;
     background-color: black;
-    margin-right: 10px;
+    margin-right: 20px;
     margin-bottom: 0;
     float: left;
 
