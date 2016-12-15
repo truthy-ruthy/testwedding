@@ -85,7 +85,7 @@ body {
    ========================================================================== */
 #gmap {
     text-align: center;
-    /*margin: 10px;*/
+    margin: 10px;
     margin-right: 20px;
     float: center;
 }
@@ -238,7 +238,7 @@ nav ul li a::-moz-focus-inner {border:0;}
 .main header {
     float: center;
     margin-left: 20px;
-    width: 80%;
+    width: 100%;
 }
 .main .bg-image {
   position: fixed;
@@ -506,11 +506,11 @@ section h2 {
    ============ */
 
     .main header {
-        padding-top: 175px;
+        padding-top: 275px;
         margin-top: 40%;
         margin-bottom: 10%;
         float: left;
-        width: 100%;
+        width: 80%;
     }
 
     nav a {
@@ -909,7 +909,7 @@ a.email {
     height: 400px;
     width: 275px;
     background-color: black;
-    margin-right: 15px;
+    margin-right: 10px;
     margin-bottom: 0;
     align-content: left;
 
