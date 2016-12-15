@@ -230,19 +230,15 @@ nav ul li a::-moz-focus-inner {border:0;}
    ============== */
 
 .main {
-    padding: 2%;
+    padding: 2% 0% 0% 5%;
     align-content: space-around;
-    align-items: center;
-    /*font-size: .75em;*/
 }
 .main header {
     float: center;
     margin-left: 20px;
     width: 80%;
 }
-.main .column {
-    align-items: center;
-}
+
 
 
 /* ==========================================================================
@@ -904,7 +900,7 @@ a.email {
     background-color: black;
     margin-right: 10px;
     margin-bottom: 0;
-    float: right;
+    align-content: center;
 
     border: 4px solid #090909;
 
