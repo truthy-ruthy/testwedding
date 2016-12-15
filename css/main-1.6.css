@@ -85,7 +85,7 @@ body {
    ========================================================================== */
 #gmap {
     text-align: center;
-    margin: 10px;
+    /*margin: 10px;*/
     margin-right: 20px;
     float: center;
 }
@@ -909,7 +909,7 @@ a.email {
     height: 400px;
     width: 275px;
     background-color: black;
-    margin-right: 10px;
+    margin-right: 15px;
     margin-bottom: 0;
     align-content: left;
 
