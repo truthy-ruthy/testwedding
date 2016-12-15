@@ -238,7 +238,7 @@ nav ul li a::-moz-focus-inner {border:0;}
 .main header {
     float: center;
     margin-left: 20px;
-    width: 75%;
+    width: 100%;
 }
 .main .bg-image {
   position: fixed;
@@ -510,7 +510,7 @@ section h2 {
         margin-top: 40%;
         margin-bottom: 10%;
         float: left;
-        width: 80%;
+        width: 100%;
     }
 
     nav a {
