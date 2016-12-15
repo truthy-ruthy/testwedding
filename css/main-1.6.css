@@ -353,6 +353,7 @@ section h2 {
     body {
         background-position: 50% 50%;
         /*background-position: center;*/
+        background-attachment:fixed;
     }
 
     /** get the transparent bar on the bottom **/
