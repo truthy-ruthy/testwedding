@@ -440,6 +440,7 @@ section h2 {
     }
     section h1 {
         font-size: 3.1em;
+        margin-left: -5px;
     }
     section h2 {
         font-size: 1.7em;
