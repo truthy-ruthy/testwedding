@@ -85,12 +85,12 @@ body {
    ========================================================================== */
 #gmap {
     text-align: center;
-    margin: 20px auto 20px auto;
+    margin: 10px;
     float: center;
 }
 
 #gmap iframe {
-    width: 50%;
+    width: 93%;
     height: 200px;
 
     border: 10px solid #090909;
