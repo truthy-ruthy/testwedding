@@ -90,7 +90,7 @@ body {
 }
 
 #gmap iframe {
-    width: 75%;
+    width: 50%;
     height: 200px;
 
     border: 10px solid #090909;
