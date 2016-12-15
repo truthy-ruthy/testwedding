@@ -455,8 +455,9 @@ section h2 {
 
     #gmap iframe {
         height: 200px;
-        width: 200px;
+        width: 150px;
     }
+
     .weather  {
       width: 200px;
     }
