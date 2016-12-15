@@ -86,7 +86,8 @@ body {
 #gmap {
     text-align: center;
     margin: 10px;
-    float: left;
+    margin-right: 20px;
+    float: center;
 }
 
 #gmap iframe {
