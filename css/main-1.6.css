@@ -248,7 +248,9 @@ nav ul li a::-moz-focus-inner {border:0;}
   width: 50%;
   height: 50%;
 
-}*/
+.main  #gmap iframe {
+      float: left;
+  }
 
 
 
