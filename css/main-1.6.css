@@ -454,14 +454,11 @@ section h2 {
     }
 
     #gmap iframe {
-        height: 200px;
-        width: 50%;
+        height: 400px;
     }
-
-    .weather  {
+    /*.weather  {
       width: 200px;
     }
-/*
     #bg-image {
         position: fixed;
         top: -10%;
@@ -479,7 +476,7 @@ section h2 {
         margin: auto;
         min-width: 50%;
         min-height: 50%;
-    }*/
+    }*/*/
 
 
 
