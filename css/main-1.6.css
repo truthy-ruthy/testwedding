@@ -250,6 +250,7 @@ nav ul li a::-moz-focus-inner {border:0;}
 
 .main  #gmap iframe {
       float: left;
+      margin-left: -15px;
   }
 
 
