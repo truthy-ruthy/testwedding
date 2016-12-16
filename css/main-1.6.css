@@ -88,16 +88,16 @@ body {
     text-align: center;
     margin-right: 40px;
     overflow: hidden;
-    padding-bottom: 100%; // This is the aspect ratio
+    padding-bottom: 200%; // This is the aspect ratio
 
 }
 
 #gmap iframe {
 
-       position: absolute;
+       position: relative;
        top: 0;
        left: 0;
-       width: 80% !important;
+       width: 100% !important;
        height: 400px !important;
 
 
