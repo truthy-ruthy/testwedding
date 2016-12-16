@@ -457,6 +457,7 @@ section h2 {
 
     #bg-image img {
       max-width: 100%;
+      top: -2%;
     }
 
     .column p {
