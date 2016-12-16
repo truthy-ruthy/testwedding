@@ -86,12 +86,12 @@ body {
 #gmap {
     text-align: center;
     margin-right: 40px;
-    align-content: left;
     display:block
 }
 
 #gmap iframe {
-    width: 100%;
+    align-content: left;
+    width: 80%;
     height: 200px;
 
     border: 10px solid #090909;
