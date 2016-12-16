@@ -84,22 +84,16 @@ body {
    GOOGLE MAPS
    ========================================================================== */
 #gmap {
-  position: relative;
     text-align: center;
     margin-right: 40px;
-    overflow: hidden;
-    padding-bottom: 50%; // This is the aspect ratio
-
+    align-content: lef;
+    display:block
 }
 
 #gmap iframe {
-
-       position: relative;
-       /*top: 0;
-       left: 0;*/
-       width: 100% !important;
-       height: 400px !important;
-
+    width: 100%;
+    height: 200px;
+    display: block;
 
     border: 10px solid #090909;
 
