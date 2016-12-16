@@ -88,7 +88,7 @@ body {
     text-align: center;
     margin-right: 40px;
     overflow: hidden;
-    padding-bottom: 5%; // This is the aspect ratio
+    padding-bottom: 50%; // This is the aspect ratio
 
 }
 
@@ -98,7 +98,7 @@ body {
        top: 0;
        left: 0;
        width: 100% !important;
-       height: 200px !important;
+       height: 400px !important;
 
 
     border: 10px solid #090909;
