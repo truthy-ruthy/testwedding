@@ -253,6 +253,11 @@ nav ul li a::-moz-focus-inner {border:0;}
       /*margin-left: -15px;*/
   }
 
+.main .weather {
+    width: 75%;
+    float: left;
+}
+
 
 
 /* ==========================================================================
