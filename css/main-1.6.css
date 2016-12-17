@@ -84,6 +84,7 @@ body {
    GOOGLE MAPS
    ========================================================================== */
 #gmap {
+    margin-top: 85px;
     text-align: center;
     margin-right: 40px;
     align-content: lef;
@@ -92,7 +93,7 @@ body {
 
 #gmap iframe {
     width: 100%;
-    height: 200px;
+    height: 125px;
     display: block;
 
     border: 10px solid #090909;
