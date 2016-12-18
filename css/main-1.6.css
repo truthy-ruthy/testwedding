@@ -246,10 +246,7 @@ nav ul li a::-moz-focus-inner {border:0;}
   width: 50%;
   height: 50%;
 
-.main  #gmap {
-      float: left;
-      /*margin-left: -15px;*/
-  }
+
 
 
 
@@ -466,7 +463,8 @@ section h2 {
     }
 
     #gmap iframe {
-        height: 400px;
+        height: 300px;
+        float: left;
     }
 
 
