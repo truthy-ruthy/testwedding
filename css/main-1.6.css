@@ -916,9 +916,9 @@ a.email {
     height: 200px;
     width: 275px;
     background-color: black;
-    margin-right: 20px;
+    /*margin-right: 20px;*/
     margin-bottom: 0;
-    align-content: left;
+    /*align-content: left;*/
 
     border: 4px solid #090909;
 
