@@ -469,11 +469,9 @@ section h2 {
     }
 
     .weather {
-        margin-left: -30px;
+        margin-left: -25px;
+        float:left !important;
     }
-
-
-
 
 
 /* ========================
@@ -547,7 +545,7 @@ section h2 {
         padding: 0 20px;
     }
     section h1 {
-        font-size: 5.9em;
+        font-size: 4.2em;
           margin-left: -15px;
     }
 
