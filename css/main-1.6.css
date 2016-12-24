@@ -87,7 +87,7 @@ body {
     margin-top: 85px;
     text-align: center;
     margin-right: 40px;
-    align-content: lef;
+    /*align-content: lef;*/
     display:block
 }
 
@@ -466,8 +466,8 @@ section h2 {
     }
 
     #gmap iframe {
-        height: 300px;
-        float: left;
+        height: 500px;
+        /*float: left;*/
         margin-left: -30px;
     }
 
