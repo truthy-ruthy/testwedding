@@ -181,6 +181,9 @@ body {
 /* ==============
     MOBILE: Menu
    ============== */
+ms-viewport{
+     width: device-width;
+   }
 
 nav {
     z-index: 42;
