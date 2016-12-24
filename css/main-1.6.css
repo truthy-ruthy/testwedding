@@ -87,7 +87,7 @@ body {
     margin-top: 85px;
     text-align: center;
     margin-right: 40px;
-    /*align-content: lef;*/
+    align-content: left;
     display:block
 }
 
@@ -181,9 +181,6 @@ body {
 /* ==============
     MOBILE: Menu
    ============== */
-ms-viewport{
-     width: device-width;
-   }
 
 nav {
     z-index: 42;
@@ -467,7 +464,7 @@ section h2 {
 
     #gmap iframe {
         height: 500px;
-        /*float: left;*/
+        float: left;
         margin-left: -30px;
     }
 
